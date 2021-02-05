@@ -1,6 +1,7 @@
 package circus;
 
 public class Cannon extends Equipment {
+    //hello
 
     public Cannon(int purchasePrice) {
         super(purchasePrice);
