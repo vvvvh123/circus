@@ -2,6 +2,7 @@ package circus;
 
 public class Cannon extends Equipment {
     //hello
+    //byebyebye
 
     public Cannon(int purchasePrice) {
         super(purchasePrice);
